@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "網頁程式設計", "網頁程式設計\網頁程式設計.csproj", "{2AFF1503-F278-4225-A4DF-4811E3BFCDED}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2AFF1503-F278-4225-A4DF-4811E3BFCDED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2AFF1503-F278-4225-A4DF-4811E3BFCDED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2AFF1503-F278-4225-A4DF-4811E3BFCDED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2AFF1503-F278-4225-A4DF-4811E3BFCDED}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8BA83224-F0C5-4114-A5EF-93EFE519288B}
+	EndGlobalSection
+EndGlobal
